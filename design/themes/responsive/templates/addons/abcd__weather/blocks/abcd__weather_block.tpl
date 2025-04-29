@@ -23,10 +23,34 @@
         {__("weather.view_on_page")}
     </button>
 
-<script type="text/javascript">
+    <script type="text/javascript">
+        document.getElementById('refresh-weather-btn_{$block.block_id}').addEventListener('click', function () {
+            const block = this.closest('#weather_block_{$block.block_id}');
+            const cityId = {$city_id};
 
-    document.getElementById('refresh-weather-btn_{$block.block_id}').addEventListener('click', function() {
-        location.reload();
-    });
-</script>
+            $.ajax({
+                url: "index.php?dispatch=abcd__weather.view&ajax=Y",
+                method: "GET",
+                data: { city_id: cityId },
+                dataType: "json",
+                success: function(response) {
+                    if (response.error) {
+                        alert(response.error);
+                        return;
+                    }
+
+
+                    block.querySelector('#weather_temperature').textContent = response.weather_data.main.temp + "°C";
+                    block.querySelector('#weather_humidity').textContent = response.weather_data.main.humidity + "%";
+                    block.querySelector('#weather_description').textContent = response.weather_data.weather[0].description;
+                    block.querySelector('#weather_wind').textContent = response.weather_data.wind.speed + " м/с";
+                    block.querySelector('#weather_last_update').textContent = response.last_update;
+                    block.querySelector('#weather_city_title').textContent = response.weather_title;
+                },
+                error: function(xhr, status, error) {
+                    console.error("AJAX помилка: " + status + " - " + error);
+                }
+            });
+        });
+    </script>
 </div>
