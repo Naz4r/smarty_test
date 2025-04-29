@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>abcd__weather</id>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>0</position>
+    <default_language>uk</default_language>
+    <status>active</status>
+    <name>Погодний інформер</name>
+    <description>Інформує про погоду в різних містах</description>
+</addon>

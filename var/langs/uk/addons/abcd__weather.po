@@ -1,0 +1,179 @@
+msgctxt "Languages::weather.city_name"
+msgid "city_name"
+msgstr "Назва міста"
+
+msgctxt "Languages::weather.status"
+msgid "status"
+msgstr "Статус"
+
+msgctxt "Languages::weather.active"
+msgid "weather.active"
+msgstr "Активний"
+
+msgctxt "Languages::weather.disabled"
+msgid "weather.disabled"
+msgstr "Неактивний"
+
+msgctxt "Languages::weather.save"
+msgid "save"
+msgstr "Зберегти"
+
+msgctxt "Languages::weather.cancel"
+msgid "cancel"
+msgstr "Відміна"
+
+msgctxt "Languages::weather.editing"
+msgid "editing"
+msgstr "Редагування міста"
+
+msgctxt "Languages::weather.new_city"
+msgid "new_city"
+msgstr "Нове місто"
+
+msgctxt "Languages::weather.actions"
+msgid "actions"
+msgstr "Дії"
+
+msgctxt "Languages::weather.delete_selected"
+msgid "delete_selected"
+msgstr "Видалити виділені"
+
+msgctxt "Languages::weather.confirm_delete_selected"
+msgid "confirm_delete_selected"
+msgstr "Ви дійсно хочете видалити вибрані міста?"
+
+msgctxt "Languages::weather.city"
+msgid "city"
+msgstr "Місто"
+
+msgctxt "Languages::weather.search"
+msgid "search"
+msgstr "Пошук"
+
+msgctxt "Languages::weather.language"
+msgid "language"
+msgstr "Мова"
+
+msgctxt "Languages::weather.text_no_cities_found"
+msgid "text_no_cities_found"
+msgstr "Міста не знайдені"
+
+msgctxt "Languages::weather.no_data"
+msgid "no_data"
+msgstr "Немає данних"
+
+msgctxt "Languages::weather.tools"
+msgid "tools"
+msgstr "Інструменти"
+
+msgctxt "Languages::weather.new_city_title"
+msgid "new_city_title"
+msgstr "Створити нове місто"
+
+msgctxt "Languages::weather.city_name_label"
+msgid "city_name_label"
+msgstr "Назва міста"
+
+msgctxt "Languages::weather.city_name_placeholder"
+msgid "city_name_placeholder"
+msgstr "Введіть назву міста"
+
+msgctxt "Languages::weather.status_label"
+msgid "status_label"
+msgstr "Статус"
+
+msgctxt "Languages::weather.save_button"
+msgid "save_button"
+msgstr "Зберегти"
+
+msgctxt "Languages::weather.cancel_button"
+msgid "cancel_button"
+msgstr "Відміна"
+
+msgctxt "Languages::weather.select_city"
+msgid "select_city"
+msgstr "Виберіть місто"
+
+msgctxt "Languages::weather.temperature"
+msgid "temperature"
+msgstr "Температура"
+
+msgctxt "Languages::weather.humidity"
+msgid "humidity"
+msgstr "Вологість"
+
+msgctxt "Languages::weather.weather"
+msgid "weather"
+msgstr "Погода"
+
+msgctxt "Languages::weather.wind"
+msgid "wind"
+msgstr "Вітер"
+
+msgctxt "Languages::weather.next_update_in"
+msgid "next_update_in"
+msgstr "Наступне оновлення через"
+
+msgctxt "Languages::weather.no_weather_data_available"
+msgid "no_weather_data_available"
+msgstr "Данні про погоду не доступні"
+
+msgctxt "Languages::weather.weather_in"
+msgid "weather_in"
+msgstr "Погода в"
+
+msgctxt "Languages::weather.weather_informer"
+msgid "weather_informer"
+msgstr "Інформер погоди"
+
+msgctxt "Languages::weather.city_list"
+msgid "city_list"
+msgstr "Список міст"
+
+msgctxt "Languages::weather.add_new_city"
+msgid "add_new_city"
+msgstr "Додати нове місто"
+
+msgctxt "Languages::weather.edit_city"
+msgid "edit_city"
+msgstr "Редагувати місто"
+
+msgctxt "Languages::weather.manage_cities"
+msgid "manage_cities"
+msgstr "Управління містами"
+
+msgctxt "Languages::weather.edit"
+msgid "edit"
+msgstr "Редагувати"
+
+msgctxt "Languages::weather.delete"
+msgid "delete"
+msgstr "Видалити"
+
+msgctxt "Languages::weather.in_city"
+msgid "weather.in_city"
+msgstr "Погода в [city]"
+
+msgctxt "Languages::weather.last_update"
+msgid "weather.last_update"
+msgstr "Останнє оновлення "
+
+msgctxt "Languages::block_abcd__weather"
+msgid "abcd__weather"
+msgstr "Погодний інформер"
+
+msgctxt "Languages::abcd__weather_block"
+msgid "abcd__weather_block"
+msgstr "Погодний інформер"
+
+msgctxt "Languages::abcd__weather_block_description"
+msgid "abcd__weather from block"
+msgstr "Блок з погодним інформером"
+
+msgctxt "Languages::weather.view_on_page"
+msgid "view_on_page"
+msgstr "Показати на сторінці"
+
+msgctxt "Languages::weather.data_not_available"
+msgid "data_not_available"
+msgstr "Дані не знайдено"

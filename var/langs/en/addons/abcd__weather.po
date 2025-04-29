@@ -1,0 +1,179 @@
+msgctxt "Languages::weather.city_name"
+msgid "city_name"
+msgstr "City name"
+
+msgctxt "Languages::weather.status"
+msgid "status"
+msgstr "Status"
+
+msgctxt "Languages::weather.active"
+msgid "active"
+msgstr "Active"
+
+msgctxt "Languages::weather.disabled"
+msgid "disabled"
+msgstr "Disabled"
+
+msgctxt "Languages::weather.save"
+msgid "save"
+msgstr "Save"
+
+msgctxt "Languages::weather.cancel"
+msgid "cancel"
+msgstr "Cancel"
+
+msgctxt "Languages::weather.editing"
+msgid "editing"
+msgstr "Editing city"
+
+msgctxt "Languages::weather.new_city"
+msgid "new_city"
+msgstr "New city"
+
+msgctxt "Languages::weather.actions"
+msgid "actions"
+msgstr "Actions"
+
+msgctxt "Languages::weather.delete_selected"
+msgid "delete_selected"
+msgstr "Delete selected"
+
+msgctxt "Languages::weather.confirm_delete_selected"
+msgid "confirm_delete_selected"
+msgstr "Are you sure you want to delete the selected cities?"
+
+msgctxt "Languages::weather.city"
+msgid "city"
+msgstr "City"
+
+msgctxt "Languages::weather.search"
+msgid "search"
+msgstr "Search"
+
+msgctxt "Languages::weather.language"
+msgid "language"
+msgstr "Language"
+
+msgctxt "Languages::weather.text_no_cities_found"
+msgid "text_no_cities_found"
+msgstr "No cities found"
+
+msgctxt "Languages::weather.no_data"
+msgid "no_data"
+msgstr "No data"
+
+msgctxt "Languages::weather.tools"
+msgid "tools"
+msgstr "Tools"
+
+msgctxt "Languages::weather.new_city_title"
+msgid "new_city_title"
+msgstr "Create new city"
+
+msgctxt "Languages::weather.city_name_label"
+msgid "city_name_label"
+msgstr "City name"
+
+msgctxt "Languages::weather.city_name_placeholder"
+msgid "city_name_placeholder"
+msgstr "Enter city name"
+
+msgctxt "Languages::weather.status_label"
+msgid "status_label"
+msgstr "Status"
+
+msgctxt "Languages::weather.save_button"
+msgid "save_button"
+msgstr "Save"
+
+msgctxt "Languages::weather.cancel_button"
+msgid "cancel_button"
+msgstr "Cancel"
+
+msgctxt "Languages::weather.select_city"
+msgid "select_city"
+msgstr "Select city"
+
+msgctxt "Languages::weather.temperature"
+msgid "temperature"
+msgstr "Temperature"
+
+msgctxt "Languages::weather.humidity"
+msgid "humidity"
+msgstr "Humidity"
+
+msgctxt "Languages::weather.weather"
+msgid "weather"
+msgstr "Weather"
+
+msgctxt "Languages::weather.wind"
+msgid "wind"
+msgstr "Wind"
+
+msgctxt "Languages::weather.next_update_in"
+msgid "next_update_in"
+msgstr "Next update in"
+
+msgctxt "Languages::weather.no_weather_data_available"
+msgid "no_weather_data_available"
+msgstr "Weather data not available"
+
+msgctxt "Languages::weather.weather_in"
+msgid "weather_in"
+msgstr "Weather in"
+
+msgctxt "Languages::weather.weather_informer"
+msgid "weather_informer"
+msgstr "Weather informer"
+
+msgctxt "Languages::weather.city_list"
+msgid "city_list"
+msgstr "City list"
+
+msgctxt "Languages::weather.add_new_city"
+msgid "add_new_city"
+msgstr "Add new city"
+
+msgctxt "Languages::weather.edit_city"
+msgid "edit_city"
+msgstr "Edit city"
+
+msgctxt "Languages::weather.manage_cities"
+msgid "manage_cities"
+msgstr "Manage cities"
+
+msgctxt "Languages::weather.edit"
+msgid "edit"
+msgstr "edit"
+
+msgctxt "Languages::weather.delete"
+msgid "delete"
+msgstr "delete"
+
+msgctxt "Languages::weather.in_city"
+msgid "in_city"
+msgstr "Weather in [city]"
+
+msgctxt "Languages::weather.last_update"
+msgid "last_update"
+msgstr "Last update"
+
+msgctxt "Languages::block_abcd__weather"
+msgid "abcd__weather"
+msgstr "Weather informer"
+
+msgctxt "Languages::abcd__weather_block"
+msgid "abcd__weather_block"
+msgstr "Weather informer"
+
+msgctxt "Languages::abcd__weather_block_description"
+msgid "abcd__weather from block"
+msgstr "Weather informer block"
+
+msgctxt "Languages::weather.view_on_page"
+msgid "view_on_page"
+msgstr "view on page"
+
+msgctxt "Languages::weather.data_not_available"
+msgid "data_not_available"
+msgstr "data not available"

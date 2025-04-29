@@ -1,0 +1,181 @@
+msgctxt "Languages::weather.city_name"
+msgid "city_name"
+msgstr "Название города"
+
+msgctxt "Languages::weather.status"
+msgid "status"
+msgstr "Статус"
+
+msgctxt "Languages::weather.active"
+msgid "active"
+msgstr "Активный"
+
+msgctxt "Languages::weather.disabled"
+msgid "disabled"
+msgstr "Неактивный"
+
+msgctxt "Languages::weather.save"
+msgid "save"
+msgstr "Сохранить"
+
+msgctxt "Languages::weather.cancel"
+msgid "cancel"
+msgstr "Отмена"
+
+msgctxt "Languages::weather.editing"
+msgid "editing"
+msgstr "Редактирование города"
+
+msgctxt "Languages::weather.new_city"
+msgid "new_city"
+msgstr "Новый город"
+
+msgctxt "Languages::weather.actions"
+msgid "actions"
+msgstr "Действия"
+
+msgctxt "Languages::weather.delete_selected"
+msgid "delete_selected"
+msgstr "Удалить выбранные"
+
+msgctxt "Languages::weather.confirm_delete_selected"
+msgid "confirm_delete_selected"
+msgstr "Вы действительно хотите удалить выбранные города?"
+
+msgctxt "Languages::weather.city"
+msgid "city"
+msgstr "Город"
+
+msgctxt "Languages::weather.search"
+msgid "search"
+msgstr "Поиск"
+
+msgctxt "Languages::weather.language"
+msgid "language"
+msgstr "Язык"
+
+msgctxt "Languages::weather.text_no_cities_found"
+msgid "text_no_cities_found"
+msgstr "Города не найдены"
+
+msgctxt "Languages::weather.no_data"
+msgid "no_data"
+msgstr "Нет данных"
+
+msgctxt "Languages::weather.tools"
+msgid "tools"
+msgstr "Инструменты"
+
+msgctxt "Languages::weather.new_city_title"
+msgid "new_city_title"
+msgstr "Создать новый город"
+
+msgctxt "Languages::weather.city_name_label"
+msgid "city_name_label"
+msgstr "Название города"
+
+msgctxt "Languages::weather.city_name_placeholder"
+msgid "city_name_placeholder"
+msgstr "Введите название города"
+
+msgctxt "Languages::weather.status_label"
+msgid "status_label"
+msgstr "Статус"
+
+msgctxt "Languages::weather.save_button"
+msgid "save_button"
+msgstr "Сохранить"
+
+msgctxt "Languages::weather.cancel_button"
+msgid "cancel_button"
+msgstr "Отмена"
+
+msgctxt "Languages::weather.select_city"
+msgid "select_city"
+msgstr "Выберите город"
+
+msgctxt "Languages::weather.temperature"
+msgid "temperature"
+msgstr "Температура"
+
+msgctxt "Languages::weather.humidity"
+msgid "humidity"
+msgstr "Влажность"
+
+msgctxt "Languages::weather.weather"
+msgid "weather"
+msgstr "Погода"
+
+msgctxt "Languages::weather.wind"
+msgid "wind"
+msgstr "Ветер"
+
+msgctxt "Languages::weather.next_update_in"
+msgid "next_update_in"
+msgstr "Следующее обновление через"
+
+msgctxt "Languages::weather.no_weather_data_available"
+msgid "no_weather_data_available"
+msgstr "Данные о погоде недоступны"
+
+msgctxt "Languages::weather.weather_in"
+msgid "weather_in"
+msgstr "Погода в"
+
+msgctxt "Languages::weather.weather_informer"
+msgid "weather_informer"
+msgstr "Информер погоды"
+
+msgctxt "Languages::weather.city_list"
+msgid "city_list"
+msgstr "Список городов"
+
+msgctxt "Languages::weather.add_new_city"
+msgid "add_new_city"
+msgstr "Добавить новый город"
+
+msgctxt "Languages::weather.edit_city"
+msgid "edit_city"
+msgstr "Редактировать город"
+
+msgctxt "Languages::weather.manage_cities"
+msgid "manage_cities"
+msgstr "Управление городами"
+
+msgctxt "Languages::weather.edit"
+msgid "edit"
+msgstr "Редактировать"
+
+msgctxt "Languages::weather.delete"
+msgid "delete"
+msgstr "Удалить"
+
+msgctxt "Languages::weather.in_city"
+msgid "in_city"
+msgstr "Погода в [city]"
+
+msgctxt "Languages::weather.last_update"
+msgid "last_update"
+msgstr "Последнее обновление "
+
+msgctxt "Languages::block_abcd__weather"
+msgid "abcd__weather"
+msgstr "Погодний информер"
+
+msgctxt "Languages::abcd__weather_block"
+msgid "abcd__weather_block"
+msgstr "Погодний информер"
+
+msgctxt "Languages::abcd__weather_block_description"
+msgid "abcd__weather from block"
+msgstr "Блок з погодним информером"
+
+msgctxt "Languages::weather.view_on_page"
+msgid "view_on_page"
+msgstr "Показать на странице"
+
+msgctxt "Languages::weather.data_not_available"
+msgid "data_not_available"
+msgstr "Данные не найдено"
+
+
